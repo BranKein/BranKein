@@ -40,4 +40,6 @@
   <a href="mailto:brankein13@gm.gist.ac.kr"><img src="https://img.shields.io/badge/Mail-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=brankein13@gm.gist.ac.kr"/></a>
 </p>
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=BranKein&show_icons=true&hide_border=False)](https://github.com/BranKein)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BranKein&show_icons=true&hide_border=False"/>
+</p>
