@@ -21,7 +21,6 @@
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=NumPy&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/></a>&nbsp 
@@ -29,11 +28,8 @@
   <br>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ-IDEA&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/WebStorm-000000?style=flat&logo=WebStorm&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/CLion-000000?style=flat&logo=Clion&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Android Stduio-3DDC84?style=flat&logo=Android-Studio&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/GitKraken-179287?style=flat&logo=GitKraken&logoColor=white"/></a>&nbsp 
 </p>
 
 <p align="center">
