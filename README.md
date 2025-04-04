@@ -1,5 +1,5 @@
 ### Yeonhyuk's Github
-
+(Outdated)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
